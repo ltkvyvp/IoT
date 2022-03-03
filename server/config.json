@@ -1,0 +1,20 @@
+﻿{
+    "database": {
+        "host": "localhost",
+        "port": 27017,
+        "user": "SuperAdmin",
+        "password": "0147896325",
+        "database": "iot"
+    },
+    "mqttServer": "mqtt://broker.mqttdashboard.com:1883",
+    "secret": "khanh-secret-key",
+    "emailFrom": "info@node-mysql-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "smtp.ethereal.email",
+        "port": 587,
+        "auth": {
+            "user": "amy.grady68@ethereal.email",
+            "pass": "Ta75vaX5UbBwxStAPq"
+        }
+    }
+}
